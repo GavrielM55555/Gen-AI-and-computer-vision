@@ -1,1 +1,1 @@
-# Foundation_models_gen_ai_vision
+# Generative-AI-and-computer-vision
